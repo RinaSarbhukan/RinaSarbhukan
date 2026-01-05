@@ -1,7 +1,8 @@
 # Hi, I'm Rina Sarbhukan 👋
 
-Full-stack developer pursuing BCA, focused on building web and mobile applications with Django and Android.
-
+Aspiring software developer with knowledge of Python, Java, SQL, and Django, aiming to apply web
+and application development skills in real-world projects. Pursuing a BCA and committed to
+continuous learning and professional growth in the tech industry
 ## 💼 About Me
 
 - 🎓 BCA student at Vidya Bharti Mahavidyalaya, Amravati (CGPA: 7.9/10)
@@ -33,8 +34,7 @@ An Android app for exam preparation with subject-wise YouTube lectures and PDF s
 ## 📫 Contact Me
 
 - **Email:** [rinasarbhukan31@gmail.com](mailto:rinasarbhukan31@gmail.com)
-- **LinkedIn:** [Connect with me on LinkedIn]https://www.linkedin.com/in/rina-sarbhukan-0563183a3/
-- **GitHub:** [Follow for more projects](https://github.com/rinasarbhukan)
+- **LinkedIn:** https://www.linkedin.com/in/rina-sarbhukan-0563183a3/
 - **Phone:** +91 7385956276
 
 ---
