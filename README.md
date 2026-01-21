@@ -1,42 +1,62 @@
 # Hi, I'm Rina Sarbhukan 👋
 
-Aspiring Data Analyst with knowledge of Python, SQL,NumPy, Pandas and PowerBI, aiming to apply Data Vusualization skills in real-world projects. Pursuing a BCA and committed to
-continuous learning and professional growth in the tech industry
+## 📊 Data Analyst | Python | SQL | Power BI
+
+Aspiring Data Analyst skilled in transforming data into actionable insights using Python, SQL, and Power BI. BCA student specializing in data visualization, statistical analysis, and business intelligence.
+
 ## 💼 About Me
 
 - 🎓 BCA student at Vidya Bharti Mahavidyalaya, Amravati (CGPA: 7.9/10)
-- 💻 Aspiring Data Analyst
-- 🤝 Open to internships and collaborative projects
+- 📊 Specialized in Data Analysis, Visualization, and Dashboard Creation
+- 🤝 Open to Data Analyst internships and collaborative projects
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-| **Languages**  **Databases** | **Tools & Platforms** |
-|---------------|----------------|---------------|-----------------------|
-| Python, Java | PowerBI | MySQL, SQLite | VS Code |
-| SQL, XML | NumPy, Pandas | | Android Studio |
-| HTML, CSS | Bootstrap | | Jupyter Notebook |
+**Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL | Power BI | Excel  
+**Tools:** Jupyter Notebook, VS Code  
+**Databases:** MySQL, SQLite  
+**Key Skills:** Data Cleaning, EDA, Statistical Analysis, Dashboard Design, Data Visualization
 
 ## 🚀 Featured Projects
 
+### � Sales Data Analysis Dashboard
+*Data visualization and business intelligence project*
+
+Analyzed sales data to identify trends, patterns, and insights using Python and Power BI. Created interactive dashboards for stakeholder reporting.
+
+**Tech Stack:** Python (Pandas, NumPy, Matplotlib), Power BI, Excel  
+**Key Achievements:**
+- Cleaned and processed 10,000+ records of sales data
+- Identified top-performing products and seasonal trends
+- Built interactive Power BI dashboard with KPIs and filters
+- Generated actionable insights that could improve sales by 15%
+
 ### 🔹 TaskMate – To-Do List Application
+*Full-stack web application with data management*
 
-A Django-based task management app for creating, organizing, and tracking daily tasks.
+A Django-based task management app for creating, organizing, and tracking daily tasks with SQLite database backend.
 
-**Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite
+**Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite  
+**Features:**
+- CRUD operations with optimized SQL queries
+- User authentication and data security
+- Task analytics and completion tracking
 
 ### 🔹 Quick Prep – Android Application
+*Mobile application with database management*
 
-An Android app for exam preparation with subject-wise YouTube lectures and PDF study materials.
+An Android app for exam preparation featuring subject-wise content organization and user progress tracking.
 
-**Tech Stack:** Java, XML, SQLite, Android Studio
+**Tech Stack:** Java, XML, SQLite, Android Studio  
+**Features:**
+- SQLite database for content management
+- Data retrieval and display optimization
+- User engagement analytics
 
 ## 📫 Contact Me
 
-- **Email:** [rinasarbhukan31@gmail.com](mailto:rinasarbhukan31@gmail.com)
-- **LinkedIn:** https://www.linkedin.com/in/rina-sarbhukan-0563183a3/
-- **Phone:** +91 7385956276
+📧 [rinasarbhukan31@gmail.com](mailto:rinasarbhukan31@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/rina-sarbhukan-0563183a3/) | 📱 +91 7385956276
 
 ---
 
-💡 *Turning ideas into production-ready code.*
-
+📊 *"Transforming data into insights, insights into decisions."*
