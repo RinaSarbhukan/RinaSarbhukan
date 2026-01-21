@@ -1,19 +1,18 @@
 # Hi, I'm Rina Sarbhukan 👋
 
-Aspiring software developer with knowledge of Python, Java, SQL, and Django, aiming to apply web
-and application development skills in real-world projects. Pursuing a BCA and committed to
+Aspiring Data Analyst with knowledge of Python, SQL,NumPy, Pandas and PowerBI, aiming to apply Data Vusualization skills in real-world projects. Pursuing a BCA and committed to
 continuous learning and professional growth in the tech industry
 ## 💼 About Me
 
 - 🎓 BCA student at Vidya Bharti Mahavidyalaya, Amravati (CGPA: 7.9/10)
-- 💻 Full Stack Developer with experience in Django and Android
+- 💻 Aspiring Data Analyst
 - 🤝 Open to internships and collaborative projects
 
 ## 💻 Tech Stack
 
-| **Languages** | **Frameworks** | **Databases** | **Tools & Platforms** |
+| **Languages**  **Databases** | **Tools & Platforms** |
 |---------------|----------------|---------------|-----------------------|
-| Python, Java | Django | MySQL, SQLite | VS Code |
+| Python, Java | PowerBI | MySQL, SQLite | VS Code |
 | SQL, XML | NumPy, Pandas | | Android Studio |
 | HTML, CSS | Bootstrap | | Jupyter Notebook |
 
