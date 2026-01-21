@@ -26,7 +26,7 @@ Analyzed sales data to identify trends, patterns, and insights using Python and 
 
 **Tech Stack:** Python (Pandas, NumPy, Matplotlib), Power BI, Excel  
 **Key Achievements:**
-- Cleaned and processed 10,000+ records of sales data
+- Cleaned and processed records of sales data
 - Identified top-performing products and seasonal trends
 - Built interactive Power BI dashboard with KPIs and filters
 - Generated actionable insights that could improve sales by 15%
