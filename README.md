@@ -38,9 +38,9 @@ A Django-based task management app for creating, organizing, and tracking daily 
 
 **Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite  
 **Features:**
-- CRUD operations with optimized SQL queries
-- User authentication and data security
-- Task analytics and completion tracking
+- CRUD operations with optimized SQL queries.
+- User authentication and data security.
+- Task analytics and completion tracking.
 
 ### 🔹 Quick Prep – Android Application
 *Mobile application with database management*
