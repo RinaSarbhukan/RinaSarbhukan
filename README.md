@@ -32,7 +32,7 @@ Currently pursuing my Master of Computer Applications (MCA) and learning Full St
 
 ### 🔐 Enclave – Privacy-First Web Application
 
-A browser-based application designed to process and analyze data locally, prioritizing user privacy without uploading files to external servers.
+Enclave is a browser-based application designed to simplify data exploration and analysis while maintaining user privacy. It allows users to work with their datasets directly in the browser without uploading files to external servers. The application focuses on providing an interactive and user-friendly environment for understanding, filtering, and processing data efficiently.
 
 **Tech Stack:** HTML, CSS, JavaScript, Chart.js, Papa Parse
 
@@ -46,7 +46,7 @@ A browser-based application designed to process and analyze data locally, priori
 
 ### 📋 TaskMate – To-Do List Application
 
-A Django-based task management app for creating, organizing, and tracking daily tasks with SQLite database backend.
+TaskMate is a Django-based task management application developed to help users organize their daily activities and manage tasks efficiently. It provides a simple interface for creating, updating, viewing, and deleting tasks. The application uses Django for backend functionality and SQLite for storing task-related information.
 
 **Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite
 
@@ -58,7 +58,7 @@ A Django-based task management app for creating, organizing, and tracking daily 
 
 ### 🌤️ SkyCast – Weather Dashboard
 
-A weather dashboard that provides real-time weather information and forecasts using a weather API. Designed with a clean interface and interactive weather features.
+SkyCast is a weather dashboard designed to provide users with real-time weather information and forecasts for different cities. It integrates a weather API to retrieve live weather data and dynamically display information based on user searches. The application focuses on presenting weather details through a clean, interactive, and user-friendly interface.
 
 **Tech Stack:** HTML, CSS, JavaScript, Weather API
 
