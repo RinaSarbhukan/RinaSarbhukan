@@ -76,9 +76,9 @@ A weather dashboard that provides real-time weather information and forecasts us
 
 I'm interested in connecting with developers, learning from the tech community, and exploring opportunities in Full Stack Development.
 
-- 📧 **Email:** [rinasarbhukan31@gmail.com](mailto:rinasarbhukan31@gmail.com)
-- 💼 **LinkedIn:** [Rina Sarbhukan](https://www.linkedin.com/in/rina-sarbhukan-0563183a3)
-- 💻 **GitHub:** [RinaSarbhukan](https://github.com/RinaSarbhukan)
+- 📧 **Email:** rinasarbhukan31@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rina-sarbhukan-0563183a3
+- 💻 **GitHub:** https://github.com/RinaSarbhukan
 - 📱 **Phone:** +91 7385956276
 
 ---
