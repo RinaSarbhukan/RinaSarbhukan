@@ -17,7 +17,7 @@ Currently pursuing my Master of Computer Applications (MCA) and learning Full St
 
 🤝 Open to internships, entry-level opportunities, and collaborative projects
 
-## projects
+
 
 🛠️ Tech Stack
 
@@ -46,12 +46,18 @@ DOM Manipulation CRUD Operations REST APIs Responsive Web Design Database Manage
 🔐 Enclave – Privacy-First Web Application
 
 A browser-based application designed to process and analyze data locally, prioritizing user privacy without uploading files to external servers.
+
 Tech Stack: HTML, CSS, JavaScript, Chart.js, Papa Parse
+
 Key Features:
 1.Client-side data processing
+
 2.Interactive charts and visualizations
+
 3.Data filtering and cleaning
+
 4.Privacy-focused architecture
+
 5.No backend file uploads
 
 
@@ -63,7 +69,9 @@ Tech Stack: Python, Django, HTML, CSS, Bootstrap, SQLite
 
 Key Features:
 1. CRUD operations with optimized SQL queries.
+ 
 2. User authentication and data security.
+
 3. Task analytics and completion tracking.
 
 
@@ -72,13 +80,19 @@ Key Features:
 
 A weather dashboard that provides real-time weather information and forecasts using a weather API. Designed with a clean interface and interactive weather features.
 
+
 Tech Stack: HTML, CSS, JavaScript, Weather API
+
 
 Key Features:
 1.Real-time weather information
+
 2.City-based weather search
+
 3.Celsius and Fahrenheit conversion
+
 4.Weather forecast display
+
 5.Responsive user interface
 
 
