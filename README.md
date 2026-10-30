@@ -50,6 +50,7 @@ A browser-based application designed to process and analyze data locally, priori
 Tech Stack: HTML, CSS, JavaScript, Chart.js, Papa Parse
 
 Key Features:
+
 1.Client-side data processing
 
 2.Interactive charts and visualizations
@@ -61,6 +62,9 @@ Key Features:
 5.No backend file uploads
 
 
+ 
+ 
+ 
  📋 TaskMate – To-Do List Application
  
 A Django-based task management app for creating, organizing, and tracking daily tasks with SQLite database backend.
@@ -68,11 +72,15 @@ A Django-based task management app for creating, organizing, and tracking daily 
 Tech Stack: Python, Django, HTML, CSS, Bootstrap, SQLite 
 
 Key Features:
+
 1. CRUD operations with optimized SQL queries.
  
 2. User authentication and data security.
 
 3. Task analytics and completion tracking.
+
+
+
 
 
 
@@ -85,6 +93,7 @@ Tech Stack: HTML, CSS, JavaScript, Weather API
 
 
 Key Features:
+
 1.Real-time weather information
 
 2.City-based weather search
@@ -94,6 +103,10 @@ Key Features:
 4.Weather forecast display
 
 5.Responsive user interface
+
+
+
+
 
 
 
