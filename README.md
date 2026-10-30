@@ -1,92 +1,204 @@
-<h1 align="center">Rina Sarbhukan</h1>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  <b>Aspiring Full Stack Developer</b> · MERN Stack · SQL & NoSQL Databases
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rina%20Sarbhukan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="Header"/>
 
-<p align="center">
-  Building modern, responsive, and user-friendly web applications.<br/>
-  Turning ideas into functional products and solving real-world problems through code.
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=MERN+Stack+Developer+in+the+making;Building+modern+%26+responsive+web+apps;Frontend+%7C+Backend+%7C+SQL+%26+NoSQL+Databases;MCA+Student+%7C+Always+Learning" alt="Typing SVG"/></a>
 
-<p align="center">
-  <a href="mailto:rinasarbhukan31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/rina-sarbhukan-0563183a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/RinaSarbhukan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<br/>
 
----
+<a href="mailto:rinasarbhukan31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/rina-sarbhukan-0563183a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/RinaSarbhukan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=RinaSarbhukan&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile views"/>
 
-## About Me
+</div>
 
-I hold a BCA degree and am currently pursuing a **Master of Computer Applications (MCA)**. Alongside my degree, I am training in Full Stack Development at **Fortune Cloud Technology**, with a focus on the MERN Stack and relational and non-relational database design.
+<br/>
 
-- **Focus areas:** Frontend development, backend development, and database management
-- **Approach:** Learning by building practical, hands-on projects
-- **Status:** Open to internships, entry-level roles, and collaborative projects
+## 👋 About Me
 
----
+I'm a **BCA graduate** currently pursuing a **Master of Computer Applications (MCA)**, and training in **Full Stack Development at Fortune Cloud Technology**. I enjoy turning ideas into functional, user-friendly web applications, and I learn best by building real projects.
 
-## Tech Stack
-
-| Category | Technologies |
-|---|---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-
-**Core Concepts:** DOM Manipulation · CRUD Operations · REST APIs · Responsive Web Design · SQL Queries & Joins · Database Design & Normalization · Database Management
+```javascript
+const rina = {
+  role: "Aspiring Full Stack Developer",
+  education: "MCA (Pursuing) | BCA Graduate",
+  training: "Fortune Cloud Technology",
+  focus: ["Frontend", "Backend", "MERN Stack", "SQL & NoSQL Databases"],
+  currentlyLearning: ["Advanced JavaScript", "React.js", "Node.js", "MySQL", "MongoDB"],
+  openTo: ["Internships", "Entry-level roles", "Collaborative projects"],
+};
+```
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **SkyCast** – Weather Dashboard | Real-time weather and forecasts with city search, Celsius/Fahrenheit toggle, and a responsive interface. | HTML, CSS, JavaScript, Weather API |
-| **Enclave** – Privacy-First Web App | Browser-based tool that processes and analyzes data locally with interactive charts, filtering, and cleaning. No files are uploaded to any server. | HTML, CSS, JavaScript, Chart.js, Papa Parse |
-| **TechWorld** – Technology Blog | Blog covering web development, AI, cybersecurity, and emerging tech, with organized categories and a responsive layout. | HTML, CSS, JavaScript |
-| **Sweet Crumbs** – Bakery Website | Responsive bakery website with product presentation and clear, user-friendly navigation. | HTML, CSS, Bootstrap |
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,python,java,mysql&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" alt="Frontend"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="Databases"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools"/>
+
+**Core Concepts**
+
+`DOM Manipulation` · `CRUD Operations` · `REST APIs` · `Responsive Web Design` · `SQL Queries & Joins` · `Database Design & Normalization`
 
 ---
 
-## Currently Learning
+## 🗄️ SQL & Database Skills
 
-- **JavaScript:** advanced concepts
-- **React.js:** component-based frontend development
-- **Node.js & Express.js:** backend development
-- **SQL (MySQL):** queries, joins, subqueries, indexing, and schema design
-- **MongoDB:** NoSQL database design
-- **REST API Development** and full stack application architecture
+I'm building a strong foundation in relational databases alongside my MERN Stack training.
+
+```sql
+-- Example: fetch the top customers by total order value
+SELECT c.name,
+       COUNT(o.id)     AS total_orders,
+       SUM(o.amount)   AS total_spent
+FROM   customers c
+JOIN   orders o ON o.customer_id = c.id
+GROUP  BY c.id, c.name
+HAVING SUM(o.amount) > 1000
+ORDER  BY total_spent DESC
+LIMIT  10;
+```
+
+- Writing queries with `SELECT`, `WHERE`, `GROUP BY`, `HAVING`, and `ORDER BY`
+- Working with `INNER`, `LEFT`, and `RIGHT` joins and subqueries
+- Designing schemas with primary keys, foreign keys, and normalization
+- Using **MySQL** and **SQLite** for relational data, and **MongoDB** for document data
 
 ---
 
-## Career Goals
+## 💡 Featured Projects
 
-- Grow into a skilled Full Stack Developer
+### 🌤️ SkyCast: Weather Dashboard
+
+A weather dashboard that delivers real-time conditions and forecasts through a weather API, with a clean and interactive interface.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/Weather_API-0A66C2?style=flat-square&logo=icloud&logoColor=white)
+
+- Real-time weather information
+- City-based search
+- Celsius and Fahrenheit conversion
+- Multi-day forecast display
+- Fully responsive layout
+
+<br/>
+
+### 🔐 Enclave: Privacy-First Web Application
+
+A browser-based tool that processes and analyzes data entirely on the user's device. Files never leave the browser, so privacy is built into the architecture.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Papa Parse](https://img.shields.io/badge/Papa_Parse-4B5563?style=flat-square)
+
+- Client-side data processing
+- Interactive charts and visualizations
+- Data filtering and cleaning
+- Privacy-focused design with no backend uploads
+
+<br/>
+
+### 🌐 TechWorld: Technology Blog
+
+A technology blog covering web development, artificial intelligence, cybersecurity, and emerging technologies, organized into clear categories.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- Dedicated technology content sections
+- Organized blog categories
+- Clean, easy-to-read interface
+- Responsive website layout
+
+<br/>
+
+### 🍰 Sweet Crumbs: Bakery Website
+
+A bakery website built with Bootstrap, focused on appealing design, well-structured content, and easy navigation.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+- Responsive layout across devices
+- Bakery-themed visual design
+- Product presentation sections
+- User-friendly navigation
+
+---
+
+## 📚 Currently Learning
+
+- ⚡ **JavaScript:** advanced concepts
+- ⚛️ **React.js:** component-based frontend development
+- 🟢 **Node.js & Express.js:** server-side development
+- 🐬 **SQL (MySQL):** joins, subqueries, indexing, and schema design
+- 🍃 **MongoDB:** NoSQL database design
+- 🔗 **REST APIs:** building and testing endpoints with Postman
+- 🚀 **Full Stack Applications:** connecting frontend, backend, and database
+
+---
+
+## 🎯 Career Goals
+
+- Grow into a skilled, job-ready Full Stack Developer
 - Build and ship real-world web applications
-- Strengthen problem-solving, data structure, and database skills
+- Sharpen problem-solving and database design skills
 - Gain industry experience through internships and development roles
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RinaSarbhukan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinaSarbhukan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RinaSarbhukan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinaSarbhukan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=RinaSarbhukan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
 I'm always happy to connect with developers, learn from the tech community, and explore opportunities in Full Stack Development.
 
-**Email:** [rinasarbhukan31@gmail.com](mailto:rinasarbhukan31@gmail.com)
-**LinkedIn:** [linkedin.com/in/rina-sarbhukan](https://www.linkedin.com/in/rina-sarbhukan-0563183a3/)
-**GitHub:** [github.com/RinaSarbhukan](https://github.com/RinaSarbhukan)
+- 📧 **Email:** [rinasarbhukan31@gmail.com](mailto:rinasarbhukan31@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/rina-sarbhukan](https://www.linkedin.com/in/rina-sarbhukan-0563183a3/)
+- 💻 **GitHub:** [github.com/RinaSarbhukan](https://github.com/RinaSarbhukan)
 
-<p align="center"><i>Learning continuously. Building consistently. Growing every day.</i></p>
+<div align="center">
+
+<br/>
+
+*"Learning continuously. Building consistently. Growing every day."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer"/>
+
+</div>
