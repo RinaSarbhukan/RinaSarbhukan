@@ -1,62 +1,99 @@
 # Hi, I'm Rina Sarbhukan 👋
 
-## 📊 Data Analyst | Python | SQL | Power BI
+Aspiring Full Stack Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into functional applications, exploring new technologies, and solving real-world problems through code.
 
-Aspiring Data Analyst skilled in transforming data into actionable insights using Python, SQL, and Power BI. BCA student specializing in data visualization, statistical analysis, and business intelligence.
-
+Currently pursuing my Master of Computer Applications (MCA) and learning Full Stack Development at Fortune Cloud Technology, with a focus on modern web technologies and the MERN Stack.
 ## 💼 About Me
 
-- 🎓 BCA student at Vidya Bharti Mahavidyalaya, Amravati (CGPA: 7.9/10)
-- 📊 Specialized in Data Analysis, Visualization, and Dashboard Creation
-- 🤝 Open to Data Analyst internships and collaborative projects
+- 🎓 BCA Graduate | Currently Pursuing MCA
 
-## 💻 Technical Skills
+💻 Learning Full Stack Development at Fortune Cloud Technology
 
-**Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL | Power BI | Excel  
-**Tools:** Jupyter Notebook, VS Code  
-**Databases:** MySQL, SQLite  
-**Key Skills:** Data Cleaning, EDA, Statistical Analysis, Dashboard Design, Data Visualization
+🚀 Interested in Frontend Development, Backend Development, and MERN Stack
+
+🌱 Continuously exploring new technologies and improving my coding skills
+
+🛠️ Building practical projects to gain hands-on development experience
+
+🤝 Open to internships, entry-level opportunities, and collaborative projects
+
+## projects
+
+🛠️ Tech Stack
+
+Programming Languages:
+Python SQL JavaScript
+
+Frontend Development:
+HTML5 CSS3 JavaScript Bootstrap React.js
+
+Backend Development:
+Node.js Express.js
+
+Databases:
+MongoDB MySQL SQLite
+
+Tools & Platforms:
+Git GitHub VS Code MongoDB Compass Postman
+
+Core Concepts:
+DOM Manipulation CRUD Operations REST APIs Responsive Web Design Database Management
+
+
 
 ## 🚀 Featured Projects
 
-###   Sales Data Analysis Dashboard
-*Data visualization and business intelligence project*
+🔐 Enclave – Privacy-First Web Application
 
-Analyzed sales data to identify trends, patterns, and insights using Python and Power BI. Created interactive dashboards for stakeholder reporting.
+A browser-based application designed to process and analyze data locally, prioritizing user privacy without uploading files to external servers.
+Tech Stack: HTML, CSS, JavaScript, Chart.js, Papa Parse
+Key Features:
+1.Client-side data processing
+2.Interactive charts and visualizations
+3.Data filtering and cleaning
+4.Privacy-focused architecture
+5.No backend file uploads
 
-**Tech Stack:** Python (Pandas, NumPy, Matplotlib), Power BI, Excel  
-**Key Achievements:**
-- Cleaned and processed records of sales data
-- Identified top-performing products and seasonal trends
-- Built interactive Power BI dashboard with KPIs and filters
-- Generated actionable insights that could improve sales by 15%
 
-### 🔹 TaskMate – To-Do List Application
-*Full-stack web application with data management*
-
+ 📋 TaskMate – To-Do List Application
+ 
 A Django-based task management app for creating, organizing, and tracking daily tasks with SQLite database backend.
 
-**Tech Stack:** Python, Django, HTML, CSS, Bootstrap, SQLite  
-**Features:**
-- CRUD operations with optimized SQL queries.
-- User authentication and data security.
-- Task analytics and completion tracking.
+Tech Stack: Python, Django, HTML, CSS, Bootstrap, SQLite 
 
-### 🔹 Quick Prep – Android Application
-*Mobile application with database management*
+Key Features:
+1. CRUD operations with optimized SQL queries.
+2. User authentication and data security.
+3. Task analytics and completion tracking.
 
-An Android app for exam preparation featuring subject-wise content organization and user progress tracking.
 
-**Tech Stack:** Java, XML, SQLite, Android Studio  
-**Features:**
-- SQLite database for content management
-- Data retrieval and display optimization
-- User engagement analytics
 
-## 📫 Contact Me
+🌤️ SkyCast – Weather Dashboard
 
-📧 [rinasarbhukan31@gmail.com](mailto:rinasarbhukan31@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/rina-sarbhukan-0563183a3/) | 📱 +91 7385956276
+A weather dashboard that provides real-time weather information and forecasts using a weather API. Designed with a clean interface and interactive weather features.
 
----
+Tech Stack: HTML, CSS, JavaScript, Weather API
 
-📊 *"Transforming data into insights, insights into decisions."*
+Key Features:
+1.Real-time weather information
+2.City-based weather search
+3.Celsius and Fahrenheit conversion
+4.Weather forecast display
+5.Responsive user interface
+
+
+
+📫 Let's Connect
+
+I'm interested in connecting with developers, learning from the tech community, and exploring opportunities in Full Stack Development.
+
+📧 Email: rinasarbhukan31@gmail.com
+
+💼 LinkedIn:https://www.linkedin.com/in/rina-sarbhukan-0563183a3
+
+💻 GitHub: https://github.com/RinaSarbhukan
+
+📱 Phone: +91 7385956276
+
+
+"Learning continuously. Building consistently. Growing every day." 🚀
